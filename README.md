@@ -13,7 +13,7 @@ The dataset includes financial and market data for Chinese A-share listed compan
 
 
 #### Heatmap of Financial Fraud by Industry (2007-2023)
-![Heatmap Example](pheatmap.png)
+![Heatmap](heatmap.png)
 
 #### SHAP Summary Plot
 ![SHAP Summary](shap_summary.png)
