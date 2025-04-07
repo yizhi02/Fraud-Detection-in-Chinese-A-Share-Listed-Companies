@@ -10,6 +10,14 @@ The dataset includes financial and market data for Chinese A-share listed compan
 - MD&A sentiment scores based on NTUSD dictionary
 
 ## Files
+
+
+#### Heatmap of Financial Fraud by Industry (2007-2023)
+![Heatmap Example](pheatmap.png)
+
+#### SHAP Summary Plot
+![SHAP Summary](shap_summary.png)
+
 - **data/**: Panel dataset in format.
 - **scripts/**: Stata and Python scripts for data processing and model analysis.
 - **results/**: Results and figures from the analysis.
